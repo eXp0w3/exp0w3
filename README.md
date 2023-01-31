@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm exp0w3</h1>
+<h1 align="center">Exp0w3</h1>
 <h3 align="center">A soul lost in an unreality</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exp0w3&label=Profile%20views&color=0e75b6&style=flat" alt="exp0w3" /> </p>
